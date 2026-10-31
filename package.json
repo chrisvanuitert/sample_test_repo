@@ -1,0 +1,14 @@
+{
+  "name": "cra-shield-test-repo",
+  "version": "1.0.0",
+  "description": "Sample test application with pinned vulnerable dependencies for CRA-Shield validation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0"
+  }
+}
